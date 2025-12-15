@@ -18,7 +18,7 @@ JOBS is a full-stack web application designed for organizational performance mea
 - 🏠 Remote Work Monitoring
 - 🎫 Work Ticket Management
 - 📅 Attendance Tracking
-- 📈 Census Management
+- 📈 Employee Account Management
 
 ## 🛠️ Technology Stack
 
@@ -38,8 +38,8 @@ JOBS is a full-stack web application designed for organizational performance mea
 
 ## 📸 Screenshots
 
-> Add screenshots of your application here
-> Place them in the \screenshots/\ directory
+> Adding screenshots of my application here
+> Will place them in the \screenshots/\ directory
 
 ## 🏗️ Architecture
 
@@ -62,7 +62,7 @@ Building this project taught me:
 
 ## 📝 License
 
-© 2024 klymacks. All rights reserved.
+© 2025 klymacks. All rights reserved.
 
 This is proprietary software. See LICENSE file for details.
 
