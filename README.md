@@ -79,3 +79,5 @@ This is proprietary software. See LICENSE file for details.
 ---
 
 ⭐ If you found this interesting, consider giving it a star!
+
+
